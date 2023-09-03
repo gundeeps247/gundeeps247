@@ -24,8 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gundeep___4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gundeep___4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//gundeeps247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/gundeeps247/" height="30" width="40" /></a>
-<a href="https://instagram.com/gundeep_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gundeep_25" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//gundeepsm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/gundeepsm/" height="30" width="40" /></a>
+<a href="https://instagram.com/gundeeps247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gundeeps247" height="30" width="40" /></a>
 <a href="https://kaggle.com/gundeepsingh742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gundeepsingh742" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gundeepsinghm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gundeepsinghm" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gundeepsinghm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gundeepsinghm" height="30" width="40" /></a>
