@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gundeepsinghm@gmail.com**
 
-- 📄 Know about my experiences [https://gundeeps-portfloio.vercel.app/]([portfolio])
+- 📄 Know about my experiences [https://gundeeps-portfloio.vercel.app/]
 
 - ⚡ Fun fact **I've been known to turn coffee into code with a touch of magic!**
 
