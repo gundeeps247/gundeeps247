@@ -7,13 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/gundeeps247" target="blank"><img src="https://img.shields.io/twitter/follow/gundeeps247?logo=twitter&style=for-the-badge" alt="gundeeps247" /></a> </p>
 
-- 🔭 I’m currently working on [Text Summarizer](https://github.com/gundeeps247/text-summarizer)
-
-- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gundeeps247](https://github.com/gundeeps247)
 
-- 💬 Ask me about **C, C++, Python, HTML, CSS**
+- 💬 Ask me about **C/C++, Python, Mern**
 
 - 📫 How to reach me **gundeepsinghm@gmail.com**
 
