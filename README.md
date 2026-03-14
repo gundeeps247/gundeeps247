@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gundeepsinghm@gmail.com**
 
-- 📄 Know about my experiences [https://cv.yonosol.com/]
+- 📄 Know about my experiences [cv.yonosol.com]
 
 - ⚡ Fun fact **I've been known to turn coffee into code with a touch of magic!**
 
